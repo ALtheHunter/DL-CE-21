@@ -24,7 +24,7 @@ layers = tf.keras.layers
 
 
 # data path
-path = "../Data_Generation/Gan_Data/Gan_0_dBIndoor2p4_64ant_32users_8pilot.mat"
+path = "C:/ALI/GitHub_ALtheHunter/DL-CE-21/Data_Generation_matlab/Gan_Data/Gan_0_dBIndoor2p4_64ant_32users_8pilot.mat"
 
 
 # batch = 1 produces good results on U-NET
